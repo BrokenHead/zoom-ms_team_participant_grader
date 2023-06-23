@@ -4,7 +4,7 @@ grader participant pass or not pass by percent of attendance time
 ## Why / how's it working
 as seminar and classroom that have participant and have to separate(pass or not pass) participant by percent of attendance working on MS team log or zoom meeting log
 - meeting log hard to grading by manual
-- program will summarize participant's attendance time no matter how many times leave and re-join
+- program will summarize participant's attendance time, no matter how many times leave and re-join
 - will get (attendance time : all of activities time) as percent and grading who's pass activities from input
 
 ## install
