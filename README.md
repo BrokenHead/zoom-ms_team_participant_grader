@@ -21,11 +21,14 @@ as seminar and classroom that have participant and have to separate(pass or not 
 6. result will appear in folder as .สรุป1.xlsx
 
 ## result
-![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/8dbd50d6-701a-4fee-9fda-f9218dc1dc8f)
 - raw data
+![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/8ad5d633-5684-42c9-9f3f-101d1f93b2c2)
 
-![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/77963c7f-57e0-44ab-a726-bae3530feb1c)
+
 - raw out put
+![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/77963c7f-57e0-44ab-a726-bae3530feb1c)
 
-![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/8f511677-12d3-4a80-b1a2-812cde99172f)
+
 - out put as table and sorted by passing participant
+![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/8f511677-12d3-4a80-b1a2-812cde99172f)
+
