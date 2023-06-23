@@ -1,0 +1,16 @@
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\bin\Debug\seminar_excel.exe.config
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\bin\Debug\seminar_excel.exe
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\bin\Debug\seminar_excel.pdb
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.csprojAssemblyReference.cache
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.Form1.resources
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.Properties.Resources.resources
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.csproj.GenerateResource.cache
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.csproj.CoreCompileInputs.cache
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.exe
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.pdb
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.csproj.ResolveComReference.cache
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.Form2.resources
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\bin\Debug\seminar_excel.exe.manifest
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\bin\Debug\seminar_excel.application
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.exe.manifest
+C:\Users\VARIST\source\repos\seminar_excel\seminar_excel\obj\Debug\seminar_excel.application
