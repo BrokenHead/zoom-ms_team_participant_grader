@@ -14,7 +14,7 @@ as seminar and classroom that have participant and have to separate(pass or not 
 ![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/64057f9c-c69f-44d0-a7ce-c070650a9b66)
 1. load attendance log from MS team or zoom
 2. make sure folder have only attendance log
-3. put attendance time as hour(s) or/and minute(s)
+3. put all attendance time as hour(s) or/and minute(s)
 4. put % of passing attendance
 5. get folder link and click on type of attendance botton(MS team or Zoom)
    if not have any folder link before press the button will Browes For folder
