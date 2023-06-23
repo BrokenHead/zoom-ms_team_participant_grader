@@ -8,8 +8,9 @@ as seminar and classroom that have participant and have to separate(pass or not 
 - will get (attendance time : all of activities time) as percent and grading who's pass activities from input
 
 ## install
-- program is developed in visaul studio
+- program is developed in visaul studio that mean you can download and open in visual studio
 - this repository are sorted code and .exe for install is in pubilc folder
+
 
 ## how to use
 ![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/64057f9c-c69f-44d0-a7ce-c070650a9b66)
