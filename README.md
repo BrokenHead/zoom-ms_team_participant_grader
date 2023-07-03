@@ -9,7 +9,7 @@ as seminar and classroom that have participant and have to separate(pass or not 
 
 ## install
 - program is developed in visaul studio that mean you can download and open in visual studio
-- this repository are sorted code and .exe for install is in pubilc folder
+- this repository are sorted code and .exe for install is in public folder
 
 
 ## how to use
