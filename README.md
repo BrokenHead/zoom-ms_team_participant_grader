@@ -34,3 +34,4 @@ as seminar and classroom that have participant and have to separate(pass or not 
 - out put as table and sorted by passing participant
 ![image](https://github.com/BrokenHead/zoom-ms_team_participant_grader/assets/37082529/8f511677-12d3-4a80-b1a2-812cde99172f)
 
+### for more detail contact [Me](https://github.com/BrokenHead).
